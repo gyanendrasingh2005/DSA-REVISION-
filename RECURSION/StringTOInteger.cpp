@@ -47,3 +47,7 @@ int main()
     cout<<"printing the ans "<<ans<<endl;
     
 }
+
+
+// Time Complexity: O(n)
+// Space Complexity: O(n)
